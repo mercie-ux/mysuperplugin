@@ -1,9 +1,12 @@
 {
+  "id": "example",
+  "version": "1.0.6",
   "name": "Build your own!",
+  "repo": "https://github.com/lnbits/example",
   "short_description": "Extension building guide",
+  "description": "",
   "tile": "/example/static/bitcoin-extension.png",
   "min_lnbits_version": "1.0.0",
-  "donate": "donate@legend.lnbits.com",
   "contributors": [
     {
       "name": "Ben Arc",
@@ -29,5 +32,9 @@
   ],
   "description_md": "https://raw.githubusercontent.com/lnbits/example/main/description.md",
   "terms_and_conditions_md": "https://raw.githubusercontent.com/lnbits/example/main/toc.md",
-  "license": "MIT"
+  "license": "MIT",
+  "paid_features": "",
+  "tags": ["Utilities", "Developer"],
+  "donate": "",
+  "hidden": false
 }
