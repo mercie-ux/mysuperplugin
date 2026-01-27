@@ -21,6 +21,10 @@
   ],
   "images": [
     {
+      "uri": "https://raw.githubusercontent.com/lnbits/example/main/static/image/example_showcase_thumbnail.png",
+      "link": "https://www.youtube.com/watch?v=aRTRYcNwqj0"
+    },
+    {
       "uri": "https://raw.githubusercontent.com/lnbits/example/main/static/1.png"
     },
     {
