@@ -1,0 +1,9 @@
+{
+  "repos": [
+    {
+      "id": "mysuperplugin",
+      "organisation": "mercie-ux",
+      "repository": "mysuperplugin"
+    }
+  ]
+}
